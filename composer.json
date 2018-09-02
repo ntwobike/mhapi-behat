@@ -1,0 +1,13 @@
+{
+  "name": "mhapi/mhapi-behat",
+  "require": {
+    "behat/behat": "^3.4",
+    "imbo/behat-api-extension": "^2.1"
+  },
+  "authors": [
+    {
+      "name": "ntwobike",
+      "email": "ntwobike@gmail.com"
+    }
+  ]
+}
