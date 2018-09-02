@@ -7,4 +7,4 @@ default:
   extensions:
     Imbo\BehatApiExtension:
       apiClient:
-        base_uri: http://127.0.0.1:8001
+        base_uri: your-project-url-here
